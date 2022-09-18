@@ -1,0 +1,59 @@
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-image: url(Images/background.jpg);
+    margin: 1cm;
+    text-align: center;
+    background-size: cover;
+}
+
+h1{
+    font-size: 2cm;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Verdana, sans-serif;
+    margin-bottom: 3cm;
+    text-decoration: underline;
+    text-transform: uppercase;
+}
+
+h2{
+    text-decoration: underline;
+    text-transform: uppercase;
+}
+
+img{
+    margin-left: 1cm;
+    margin-right: 1cm;
+}
+
+#gif{
+    position: absolute;
+    margin-top: 5cm;
+}
+
+.kep:hover{
+    border: 1mm solid rgb(22, 106, 233);
+}
+
+.kep{
+    margin-bottom: 2cm;
+}
+
+p{
+    font-size: 0.5cm;
+}
+
+button{
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 1cm;
+    background-color: lightblue;
+    border-radius: 10%;
+}
+
+button:hover{
+    background-color: dodgerblue;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
